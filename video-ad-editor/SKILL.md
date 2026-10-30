@@ -27,6 +27,7 @@ description: يمنتج فيديو كلام للكاميرا إلى ريل أو 
 | حلقة ساعة ← عدة ريلات | ريلات من حلقة | `references/landscape.md` (قسم «حلقة كاملة») |
 | نص أو فكرة، بلا شخص | شرح بالموشن | `references/motion-mode.md` |
 | رابط موقع أو «اشرح التطبيق» | شرح موقع/تطبيق | `references/motion-mode.md` |
+| ستايل بالاسم (Cyberpunk HUD، Synthwave، ألوان مائية…)، أو «اقترح ٣ أفكار بمعاينة»، أو إعلان HyperFrames | سكل خارجي، والناتج يرجع للريل | `references/external-skills.md` |
 
 لو فيه سكل منفصل لهالوضع منصّب (`motion-video` أو `podcast-video` أو `montage-video`)، هو أولى.
 
